@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test name="interface">
+    <classes>
+      <class name="com.autotest.api.test.testRun"/>
+    </classes>
+  </test> <!-- interface -->
+</suite> <!-- Failed suite [Default Suite] -->

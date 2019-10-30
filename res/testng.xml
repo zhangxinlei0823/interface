@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+
+    <parameter name="excelTestDataPathParam"  value="E:\autotest\app\app_testcase.xlsx"/>
+
+    <test  name="test">
+        <classes>
+            <class name="com.autotest.api.test.testRun"/>
+        </classes>
+    </test>
+
+    <listeners>
+        <!-- reportng报告替代testng默认报告 -->
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    </listeners>
+
+</suite>

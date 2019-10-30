@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test"
+           tests="50"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.005">
+  <properties />
+  
+  
+            <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.001" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.001" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.001" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.002" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+                <testcase name="f" time="0.000" classname="com.autotest.api.test.testRun" />
+      
+</testsuite>

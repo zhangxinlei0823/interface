@@ -1,0 +1,3724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="50" passed="50">
+  <reporter-output>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=123456@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=2]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&itype=&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:remember=1&email=17600905781@163.com&password=41121117@zxl&itype=&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&email=17600905781@163.com&password=41121117@zxl&itype=&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&itype=&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&itype=&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&agreeterms=1&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&email=17600905781@163.com&password=41121117@zxl&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&email=17600905781@163.com&password=41121117@zxl&itype=&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&email=17600905781@163.com&password=41121117@zxl&itype=&book=1]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&book=1]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&itype=&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&itype=&book=1]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&book=1]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=@&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=qqq&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=***&itype=&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=111&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=#￥%@&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=9]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=&remember=&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:null]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+    <line>
+      <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+    </line>
+    <line>
+      <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+    </line>
+    <line>
+      <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+    </line>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="809" started-at="2019-08-12T12:29:09Z" finished-at="2019-08-12T12:29:10Z">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="809" started-at="2019-08-12T12:29:09Z" finished-at="2019-08-12T12:29:10Z">
+      <class name="com.autotest.api.test.testRun">
+        <test-method status="PASS" signature="getExcelParameters(java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="getExcelParameters" is-config="true" duration-ms="15" started-at="2019-08-12T20:29:09Z" finished-at="2019-08-12T20:29:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[E:\autotest\app\app_testcase.xlsx]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getExcelParameters -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码登录]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码,remember不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及码,isajax不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及错误的密码]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=123456@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=2]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=123456@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，itype不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="2" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，book不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，agreeterms不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&itype=&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&itype=&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码isajax&remember不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，m不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，isajax&book不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，isajax&itype不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码isajax&agreeterms不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[remember=1&email=17600905781@163.com&password=41121117@zxl&itype=&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:remember=1&email=17600905781@163.com&password=41121117@zxl&itype=&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，remember&itype不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码remember&agreeterms不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&email=17600905781@163.com&password=41121117@zxl&itype=&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&email=17600905781@163.com&password=41121117@zxl&itype=&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，isajax&m不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="1" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，remember&book不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，remember&m不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[19]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，agreeterms&book不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&itype=&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&itype=&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，agreeterms&itype不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，agreeterms&m不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，itype&book不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，itype&m不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，book&m不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[24]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码isajax&remember&agreeterms不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[email=17600905781@163.com&password=41121117@zxl&itype=&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&itype=&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码isajax&remember&book不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[25]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码isajax&remember&itype不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[email=17600905781@163.com&password=41121117@zxl&agreeterms=1&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&agreeterms=1&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[27]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，isajax&remember&m不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[28]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码remember&agreeterms&itype不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&email=17600905781@163.com&password=41121117@zxl&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&email=17600905781@163.com&password=41121117@zxl&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[29]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码remember&agreeterms&book不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&email=17600905781@163.com&password=41121117@zxl&itype=&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&email=17600905781@163.com&password=41121117@zxl&itype=&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码remember&agreeterms&m不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&email=17600905781@163.com&password=41121117@zxl&itype=&book=1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&email=17600905781@163.com&password=41121117@zxl&itype=&book=1]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[31]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码agreeterms&itype&book 不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[32]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码agreeterms&itype&m不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&book=1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&book=1]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[34]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码isajax&remember&agreeterms&itype不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[email=17600905781@163.com&password=41121117@zxl&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[33]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，itype&book&m不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[36]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码isajax&remember&agreeterms&&m不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[email=17600905781@163.com&password=41121117@zxl&itype=&book=1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&itype=&book=1]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[35]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码isajax&remember&agreeterms&book不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[email=17600905781@163.com&password=41121117@zxl&itype=&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&itype=&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[38]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码isajax&remember&agreeterms&itype&m不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[email=17600905781@163.com&password=41121117@zxl&book=1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&book=1]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[37]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码isajax&remember&agreeterms&itype&book不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[email=17600905781@163.com&password=41121117@zxl&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入错误的账号及正确的密码，]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[39]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，其他参数都不传参登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[email=17600905781@163.com&password=41121117@zxl]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:email=17600905781@163.com&password=41121117@zxl]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[41]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码登录，isajax=@登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=@&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=@&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[43]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，agreeterms=***登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=***&itype=&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=***&itype=&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="1" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[44]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，itype=111登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=111&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=111&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[42]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，remember=qqq登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=qqq&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=qqq&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[46]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，m=9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=9]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=9]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[45]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，book=#￥%@登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=#￥%@&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=#￥%@&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="1" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[48]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码isajax=&remember=登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=&remember=&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=&remember=&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[47]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，m=登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[49]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，book=登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.autotest.api.test.testRun@63b6f0eb]" name="f" duration-ms="0" started-at="2019-08-12T20:29:10Z" data-provider="testcase" finished-at="2019-08-12T20:29:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[50]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[YES]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入正确的账号及密码，agreeterms=登陆]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[POST]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://www.nuandao.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[/public/lazyentrance]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[$.status=1;$.data.id=1050897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[请求接口:http://www.nuandao.com/public/lazyentrance]]>
+            </line>
+            <line>
+              <![CDATA[请求参数:isajax=1&remember=1&email=17600905781@163.com&password=41121117@zxl&agreeterms=1&itype=&book=1&m=0.12248663395993764]]>
+            </line>
+            <line>
+              <![CDATA[接口预期值:$.status=1;$.data.id=1050897]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.autotest.api.test.testRun -->
+    </test> <!-- test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
